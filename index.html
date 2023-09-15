@@ -1,0 +1,42 @@
+<html>
+	<head>
+		<!-- 		<link
+			rel="stylesheet"
+			href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css"
+		/> -->
+		<link rel="stylesheet" href="index.css" />
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link
+			href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;800&display=swap"
+			rel="stylesheet"
+		/>
+	</head>
+	<body>
+		<div id="container">
+			<div id="hero">
+				<h1 id="main-header">Metric/Imperial Unit Conversion</h1>
+				<div id="rectangle-number-to-convert">
+					<input type="text" id="number-to-convert" title="Number to convert" />
+				</div>
+				<button id="convert-btn">Convert</button>
+			</div>
+			<div id="converter-result-container">
+				<div class="converter-box" id="length-region">
+					<h2>Length (Meter/Feet)</h2>
+					<p id="length-results">20 meters = bla, bla, bla</p>
+				</div>
+				<div class="converter-box" id="volume-region">
+					<h2>Volume (Liters/Gallon)</h2>
+					<p id="volume-results">20 meters = bla, bla, bla</p>
+				</div>
+				<div class="converter-box" id="mass-region">
+					<h2>Mass (Kilograms/Pounds)</h2>
+					<p id="mass-results">20 meters = bla, bla, bla</p>
+				</div>
+			</div>
+		</div>
+
+		<script src="index.js"></script>
+	</body>
+</html>
