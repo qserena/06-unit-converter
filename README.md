@@ -13,6 +13,6 @@ Converts any value to and from numerous metric and imperial units.
 
 ## Live link
 The website is deployed here:
-[https://toms-scoreboard.netlify.app](https://toms-scoreboard.netlify.app)
+[https://toms-unit-converter.netlify.app](https://toms-unit-converter.netlify.app)
 
 Please feel free to visit!
