@@ -1,7 +1,7 @@
 # Unit Converter
 
 ## Description
-Converts any value to and from numerous metric and imperial units.
+Converts any value to and from numerous metric and imperial units at once.
 
 <br/>
 <img src="unit-converter.png" alt="Screenshot." width="400px"/>
